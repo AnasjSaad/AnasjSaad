@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 420" role="img" aria-label="Anas Saad  from aerospace systems to software and GenAI">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 420" width="1280" height="420" role="img" aria-label="Anas Saad from aerospace systems to software and GenAI">
   <defs>
     <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#071018"/>
@@ -52,17 +52,17 @@
     <path d="M0,-10 L7,8 L0,4 L-7,8 Z" fill="#fde68a"/>
   </g>
 
-  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#9fb6c4">
-    <text x="56" y="72" font-size="12" letter-spacing="3.2">ORIGIN  ·  YYZ / TORONTO</text>
-    <text x="900" y="72" font-size="12" letter-spacing="3.2" text-anchor="end">VECTOR  ·  FULL-STACK + GENAI</text>
-    <text x="1224" y="72" font-size="12" letter-spacing="3.2" text-anchor="end">STATUS  ·  IN PRODUCTION</text>
+  <g font-family="Consolas, Menlo, monospace" fill="#9fb6c4">
+    <text x="56" y="72" font-size="12" letter-spacing="3.2">ORIGIN  |  YYZ / TORONTO</text>
+    <text x="900" y="72" font-size="12" letter-spacing="3.2" text-anchor="end">VECTOR  |  FULL-STACK + GENAI</text>
+    <text x="1224" y="72" font-size="12" letter-spacing="3.2" text-anchor="end">STATUS  |  IN PRODUCTION</text>
   </g>
 
   <text x="56" y="168" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="18" letter-spacing="7" fill="#67e8f9">SOFTWARE DEVELOPER</text>
   <text x="52" y="238" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="76" font-weight="700" letter-spacing="4" fill="url(#name)">ANAS SAAD</text>
   <text x="56" y="286" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="22" fill="#d5e7ef">Aerospace systems thinking. Bank-scale software. Models that ship.</text>
 
-  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">
+  <g font-family="Consolas, Menlo, monospace" font-size="13">
     <rect x="56" y="328" width="168" height="34" rx="17" fill="#0c2230" stroke="#22d3ee" stroke-opacity="0.35"/>
     <text x="140" y="350" text-anchor="middle" fill="#e8fbff">TypeScript</text>
     <rect x="236" y="328" width="128" height="34" rx="17" fill="#0c2230" stroke="#22d3ee" stroke-opacity="0.35"/>

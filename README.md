@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/banner.svg" alt="Anas Saad — software developer. Origin YYZ Toronto. Vector full-stack plus GenAI. Status in production." width="100%" />
+  <img src="./assets/banner.jpg" alt="Anas Saad — software developer. Origin YYZ Toronto. Vector full-stack plus GenAI. Status in production." width="100%" />
 </div>
 
 <br />
